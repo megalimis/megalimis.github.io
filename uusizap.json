@@ -1,0 +1,149 @@
+{
+    "sisalto": [
+	    {
+                "kanavannimi": "NHK G",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://redlabmcdn.s.llnwi.net/jp01/ryowa2/index.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "NHK",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://203.162.235.41:16901"
+					}
+				]
+        },
+		{
+                "kanavannimi": "NHK E",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://redlabmcdn.s.llnwi.net/jp01/ryowa1/index.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "NHK ENGLISH",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "NHK BSP",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://203.162.235.41:16910"
+					}
+				]
+        },
+		{
+                "kanavannimi": "NHK BS1",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://203.162.235.41:16909"
+					}
+				]
+        },
+		{
+                "kanavannimi": "NHK 华语视界",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8"
+					}
+				]
+        },
+	    {
+                "kanavannimi": "NIPPON TV",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://redlabmcdn.s.llnwi.net/jp01/ryowa3/index.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "TBS",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://redlabmcdn.s.llnwi.net/jp01/ryowa5/index.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "TV TOKYO",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://redlabmcdn.s.llnwi.net/jp01/ryowa6/index.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "TV ASAHI",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://redlabmcdn.s.llnwi.net/jp01/ryowa4/index.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "FUJI TV",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://redlabmcdn.s.llnwi.net/jp01/ryowa7/index.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "TOKYO MX",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://redlabmcdn.s.llnwi.net/jp01/ryowa8/index.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "NIPPON TV NEWS 24",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "WeatherNews",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "Wowow Cinefil",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://203.162.235.41:16916"
+					}
+				]
+        }
+		
+  ]
+}
