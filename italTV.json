@@ -1,0 +1,22 @@
+{
+    "italitv": [
+		{
+                "canalName": "canale 7",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Donna TV",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://59d7d6f47d7fc.streamlock.net/donnatv/donnatv/playlist.m3u8"
+					}
+				]
+        }
+  ]
+}

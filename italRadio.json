@@ -1,0 +1,22 @@
+{
+    "italitv": [
+		{
+                "RadioName": "RTL 102.5",
+                "contentRadio": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://rtl-radio-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "RadioName": "Radio Norba TV",
+                "contentRadio": [
+					{
+				  	"format":"m3u8",
+				  	"url":"http://flash5.streaming.xdevel.com/radionorbatv/smil:radionorbatv.smil/playlist.m3u8"
+					}
+				]
+        }
+  ]
+}
