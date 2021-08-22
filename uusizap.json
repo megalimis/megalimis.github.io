@@ -1,0 +1,130 @@
+{
+    "sisalto": [
+	    {
+                "kanavannimi": "TV ASAHI",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://203.162.235.41:16906"
+					}
+				]
+        },
+		{
+                "kanavannimi": "NHK BS1",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://203.162.235.41:16909"
+					}
+				]
+        },
+		{
+                "kanavannimi": "NHK 华语视界",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "NIPPON TV",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://ntv.mov3.co/hls/ntv.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "NHK G",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://nhk.mov3.co/hls/nhk.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "NHK ENGLISH",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "NIPPON TV NEWS 24",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://www.news24.jp/livestream/index.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "TV TOKYO",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "TOKYO MX",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://neetball.net/live/test3.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "TBS",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://tbs.mov3.co/hls/tbs.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "ATX",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://sub2.neetball.net/live/neet.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "FUJI TV",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://203.162.235.41:16904"
+					}
+				]
+        },
+		{
+                "kanavannimi": "WeatherNews",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "Wowow Cinefil",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://203.162.235.41:16916"
+					}
+				]
+        } 	
+  ]
+}
