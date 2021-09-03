@@ -1,0 +1,75 @@
+{
+    "francetv": [
+		
+		{
+                "canalName": "C8",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://www.dailymotion.com/embed/video/x5gv5rr?autoPlay=1",
+					"player":"3"
+					}
+				]
+        },
+		{
+                "canalName": "BFMTV NEWS 24/7",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://www.dailymotion.com/embed/video/xgz4t1?autoPlay=1",
+					"player":"3"
+					}
+				]
+        },
+		{
+                "canalName": "CSTAR",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://www.dailymotion.com/embed/video/x5gv5v0?autoPlay=1",
+					"player":"3"
+					}
+				]
+        },
+		{
+                "canalName": "CNEWS",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://www.dailymotion.com/embed/video/x3b68jn?autoPlay=1",
+					"player":"3"
+					}
+				]
+        },
+		{
+                "canalName": "L'Equipe",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://www.dailymotion.com/embed/video/x2lefik?autoPlay=1",
+					"player":"3"
+					}
+				]
+        },
+		{
+                "canalName": "La Chaîne parlementaire",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://www.dailymotion.com/embed/video/xkxbzc?autoPlay=1",
+					"player":"3"
+					}
+				]
+        },
+		{
+                "canalName": "Franceinfo",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://www.dailymotion.com/embed/video/x4rdeu6?autoPlay=1",
+					"player":"3"
+					}
+				]
+        }
+  ]
+}
