@@ -1,0 +1,328 @@
+{
+    "italitv": [
+	    {
+                "RadioName": "51 Radio TV",
+                "contentRadio": [
+					{
+				  	"format":"m3u8",
+				  	"url":"http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "RadioName": "FM ITALIA",
+                "contentRadio": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://stream7.xdevel.com/video0s975817-411/stream/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "RadioName": "m2o TV",
+                "contentRadio": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8"
+					}
+				]
+        },
+		{
+                "RadioName": "R101",
+                "contentRadio": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(er)/index.m3u8"
+					}
+				]
+        },
+		{
+                "RadioName": "R 101 Italia IT",
+                "contentRadio": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://live3-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(er)/index.m3u8"
+					}
+				]
+        },
+		{
+                "RadioName": "Radio 24",
+                "contentRadio": [
+					{
+				  	"format":"m3u8",
+				  	"url":"http://radio24-lh.akamaihd.net/i/radio24video_1@379914/master.m3u8"
+					}
+				]
+        },
+		{
+                "RadioName": "Radio 51",
+                "contentRadio": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "RadioName": "Radio 51 TV",
+                "contentRadio": [
+					{
+				  	"format":"m3u8",
+				  	"url":"http://178.32.140.155/canale51/canale51/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "RadioName": "Radio 101",
+                "contentRadio": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ER)/index.m3u8"
+					}
+				]
+        },
+		{
+                "RadioName": "Radio 105",
+                "contentRadio": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://live3-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(EC)/index.m3u8"
+					}
+				]
+        },
+		{
+                "RadioName": "Radio 105 TV (576p)",
+                "contentRadio": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ec)/index.m3u8"
+					}
+				]
+        },
+		{
+                "RadioName": "Radio Birikina TV",
+                "contentRadio": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "RadioName": "Radio Capital TV",
+                "contentRadio": [
+					{
+				  	"format":"m3u8",
+				  	"url":"http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8"
+					}
+				]
+        },
+		{
+                "RadioName": "Radio Capital TV (360p)",
+                "contentRadio": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8"
+					}
+				]
+        },
+		{
+                "RadioName": "RADIO FRECCIA",
+                "contentRadio": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://rtl-video2-stream.thron.com/live-video/video2/ngrp:video2/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "RadioName": "Radio Ibiza TV",
+                "contentRadio": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "RadioName": "Radio Iglesias",
+                "contentRadio": [
+					{
+				  	"format":"m3u8",
+				  	"url":"http://wms.shared.streamshow.it/visualradio/mp4:visualradio/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "RadioName": "Radio Iglesias Sardegna",
+                "contentRadio": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://59d7d6f47d7fc.streamlock.net/visualradio/visualradio/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "RadioName": "Radio Italia TV",
+                "contentRadio": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8"
+					}
+				]
+        },
+		{
+                "RadioName": "Radio Lombardia TV",
+                "contentRadio": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://flash7.xdevel.com/radiolombardiatv/radiolombardiatv/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "RadioName": "Radio Montecarlo",
+                "contentRadio": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(bb)/index.m3u8"
+					}
+				]
+        },
+		{
+                "RadioName": "Radio Number One",
+                "contentRadio": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "RadioName": "Radio Piter Pan TV",
+                "contentRadio": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "RadioName": "Radio Radicale TV",
+                "contentRadio": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://video-ar.radioradicale.it/diretta/padtv2/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "RadioName": "Radio Radio TV",
+                "contentRadio": [
+					{
+				  	"format":"m3u8",
+				  	"url":"http://api.new.livestream.com/accounts/11463451/events/3679884/live.m3u8"
+					}
+				]
+        },
+		{
+                "RadioName": "Radio Studio Delta TV",
+                "contentRadio": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://5ce9406b73c33.streamlock.net/RSD/ngrp:livestream_all/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "RadioName": "Radio Taormina Sicilia",
+                "contentRadio": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "RadioName": "Radio Zeta",
+                "contentRadio": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://rtl-video3-stream.thron.com/live-video/video3/ngrp:video3/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "RadioName": "Radionorba TV",
+                "contentRadio": [
+					{
+				  	"format":"m3u8",
+				  	"url":"http://flash2.xdevel.com/norbatv/smil:norbatv.smil/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "RadioName": "RadioZeta",
+                "contentRadio": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://unlimited1-cl.dps.live/radioztv/radioztv.smil/radioztv/livestream2/chunks.m3u8"
+					}
+				]
+        },
+		{
+                "RadioName": "RTL 102.5",
+                "contentRadio": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "RadioName": "RTL 102.5 BEST",
+                "contentRadio": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://rtl-video4-stream.thron.com/live-video/video4/ngrp:video4/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "RadioName": "RTP",
+                "contentRadio": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "RadioName": "Tele Radio Sciacca",
+                "contentRadio": [
+					{
+				  	"format":"m3u8",
+				  	"url":"http://5cbd3bc28341f.streamlock.net:1935/trs_live/teleradiosciacca-tv/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "RadioName": "Virgin Radio TV",
+                "contentRadio": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://live2-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ew)/index.m3u8"
+					}
+				]
+        },
+		{
+                "RadioName": "Visual Radio",
+                "contentRadio": [
+					{
+				  	"format":"m3u8",
+				  	"url":"http://wms.shared.streamshow.it:1935/visualradio/visualradio/live.m3u8"
+					}
+				]
+        }
+  ]
+}
