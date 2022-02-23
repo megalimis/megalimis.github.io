@@ -1,0 +1,571 @@
+{
+    "sisalto": [
+	    {
+                "kanavannimi": "TBS",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://tbs1.mov3.co/hls/tbs.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "TBS (Alternative 1)",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://50.7.74.29:8880/hlsok/j00051/index.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "TBS (Alternative 2)",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://51.79.193.108:8080/hls/j00051/index.m3u8"
+					}
+				]
+        },
+		 {
+                "kanavannimi": "NIPPON TV",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://51.79.193.108:8080/hls/j00004/index.m3u8"
+					}
+				]
+        },
+		 {
+                "kanavannimi": "TV TOKYO",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://51.79.193.108:8080/hls/j00012/index.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "TV TOKYO (Alternative 1)",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://51.79.193.108:8080/hls/j00050/index.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "TV TOKYO (Alternative 2)",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://51.79.193.108:8080/hlsok/j00050/index.m3u8"
+					}
+				]
+        },
+		 {
+                "kanavannimi": "TV ASAHI",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://51.79.193.108:8080/hls/j00014/index.m3u8"
+					}
+				]
+        },
+		 {
+                "kanavannimi": "FUJI TV",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://fujitv1.mov3.co/hls/fujitv.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "FUJI TV (Alternative 1 (720p))",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://51.79.193.108:8080/hls/j00049/index.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "FUJI TV (Alternative 2 (720p))",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://51.79.193.108:8080/hlsok/j00049/index.m3u8"
+					}
+				]
+        },
+		 {
+                "kanavannimi": "ANIMAX",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://51.79.193.108:8080/hls/j00026/index.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "ANIMAX (Alternative (720p))",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://51.79.193.108:8080/hlsok/j00026/index.m3u8"
+					}
+				]
+        },
+		 {
+                "kanavannimi": "ATX",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://sub2.neetball.net/live/neet.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "ATX (Alternative (540p))",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://51.79.193.108:8080/hls/j00052/index.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "ATX (Alternative 2 (540p))",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://51.79.193.108:8080/hlsok/j00052/index.m3u8"
+					}
+				]
+        },
+		 {
+                "kanavannimi": "NHK G",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://nhk1.mov3.co/hls/nhk.m3u8"
+					}
+				]
+        },
+		 {
+                "kanavannimi": "NHK E",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://51.79.193.108:8080/hls/j00035/index.m3u8"
+					}
+				]
+        },
+		 {
+                "kanavannimi": "NHK ENGLISH",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8"
+					}
+				]
+        },
+		 {
+                "kanavannimi": "NHK BSP",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://51.79.193.108:8080/hls/j00036/index.m3u8"
+					}
+				]
+        },
+		 {
+                "kanavannimi": "NHK BS1",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://51.79.193.108:8080/hls/j00037/index.m3u8"
+					}
+				]
+        },
+		 {
+                "kanavannimi": "NHK 华语视界",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8"
+					}
+				]
+        },
+		 {
+                "kanavannimi": "TOKYO MX",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://51.79.193.108:8080/hls/j00030/index.m3u8"
+					}
+				]
+        },
+		 {
+                "kanavannimi": "MBS",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://51.79.193.108:8080/hls/j00038/index.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "MBS (Alternative 1)",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://51.79.193.108:8080/hlsok/j00038/index.m3u8"
+					}
+				]
+        },
+		 {
+                "kanavannimi": "DISNEY CHANNEL",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://51.79.193.108:8080/hls/j00015/index.m3u8"
+					}
+				]
+        },
+		 {
+                "kanavannimi": "KIDS STATION",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://51.79.193.108:8080/hls/j00023/index.m3u8"
+					}
+				]
+        },
+		 {
+                "kanavannimi": "STAR CHANNEL 1",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://51.79.193.108:8080/hls/j00019/index.m3u8"
+					}
+				]
+        },
+		 {
+                "kanavannimi": "STAR CHANNEL 2",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://51.79.193.108:8080/hls/j00018/index.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "STAR CHANNEL 3",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://51.79.193.108:8080/hlsok/j00017/index.m3u8"
+					}
+				]
+        },
+		 {
+                "kanavannimi": "YTV",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://51.79.193.108:8080/hls/j00007/index.m3u8"
+					}
+				]
+        },
+		 {
+                "kanavannimi": "SUN",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://51.79.193.108:8080/hls/j00021/index.m3u8"
+					}
+				]
+        },
+		 {
+                "kanavannimi": "TVO",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://51.79.193.108:8080/hls/j00013/index.m3u8"
+					}
+				]
+        },
+		 {
+                "kanavannimi": "Nihon Eiga TV",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://51.79.193.108:8080/hls/j00003/index.m3u8"
+					}
+				]
+        },
+		 {
+                "kanavannimi": "EISEI GEKIJO",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://51.79.193.108:8080/hls/j00001/index.m3u8"
+					}
+				]
+        },
+		 {
+                "kanavannimi": "ファミリー劇場",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://51.79.193.108:8080/hls/j00011/index.m3u8"
+					}
+				]
+        },
+		 {
+                "kanavannimi": "ABC",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://51.79.193.108:8080/hls/j00053/index.m3u8"
+					}
+				]
+        },
+		 {
+                "kanavannimi": "8 カ ン テ レ",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://51.79.193.108:8080/hls/j00006/index.m3u8"
+					}
+				]
+        },
+		 {
+                "kanavannimi": "J SPORT 1",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://51.79.193.108:8080/hls/j00042/index.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "J SPORT 1 (Alternative 1)",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://51.79.193.108:8080/hlsok/j00042/index.m3u8"
+					}
+				]
+        },
+		 {
+                "kanavannimi": "J SPORT 2",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://51.79.193.108:8080/hls/j00041/index.m3u8"
+					}
+				]
+        },
+		 {
+                "kanavannimi": "J SPORT 2 (Alternative 1)",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://51.79.193.108:8080/hlsok/j00041/index.m3u8"
+					}
+				]
+        },
+		 {
+                "kanavannimi": "J SPORT 3",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://51.79.193.108:8080/hls/j00040/index.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "J SPORT 3 (Alternative 1)",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://51.79.193.108:8080/hlsok/j00040/index.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "J SPORT 4",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://51.79.193.108:8080/hls/j00039/index.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "J SPORT 4 (Alternative 1)",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://51.79.193.108:8080/hlsok/j00039/index.m3u8"
+					}
+				]
+        },
+		 {
+                "kanavannimi": "NIPPON TV NEWS 24",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://www.news24.jp/livestream/index.m3u8"
+					}
+				]
+        },
+		 {
+                "kanavannimi": "WeatherNews",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8"
+					}
+				]
+        },
+		 {
+                "kanavannimi": "Wowow Cinefil",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://51.79.193.108:8080/hls/j00028/index.m3u8"
+					}
+				]
+        },
+		 {
+                "kanavannimi": "時代劇",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://51.79.193.108:8080/hls/j00002/index.m3u8"
+					}
+				]
+        },
+		 {
+                "kanavannimi": "BS Asahi (720p)",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://51.79.193.108:8080/hls/j00048/index.m3u8"
+					}
+				]
+        },
+		 {
+                "kanavannimi": "BS Asahi (Alternative 1) (720p)",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://51.79.193.108:8080/hlsok/j00048/index.m3u8"
+					}
+				]
+        },
+		 {
+                "kanavannimi": "BS Nippon TV",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://51.79.193.108:8080/hls/j00005/index.m3u8"
+					}
+				]
+        },
+		 {
+                "kanavannimi": "BS Nippon TV (Alternative 1)",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://51.79.193.108:8080/hlsok/j00005/index.m3u8"
+					}
+				]
+        },
+		 {
+                "kanavannimi": "BS Nippon TV (Alternative 2)",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://51.79.193.108:8080/hls/j00047/index.m3u8"
+					}
+				]
+        },
+		 {
+                "kanavannimi": "BS Nippon TV (Alternative 3)",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://51.79.193.108:8080/hlsok/j00047/index.m3u8"
+					}
+				]
+        },
+		 {
+                "kanavannimi": "CGNTV Japan (720p)",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://51.79.193.108:8080/hls/j00051/index.m3u8"
+					}
+				]
+        },
+		 {
+                "kanavannimi": "GSTV (720p)",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/playlist.m3u8"
+					}
+				]
+        },
+		 {
+                "kanavannimi": "Gunma TV (720p)",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8"
+					}
+				]
+        },
+		 {
+                "kanavannimi": "NHK G Osaka",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://51.79.193.108:8080/hls/j00032/index.m3u8"
+					}
+				]
+        },
+		 {
+                "kanavannimi": "NHK World (720p)",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/sycc-live/zh/playlist.m3u8"
+					}
+				]
+        },
+		 {
+                "kanavannimi": "NHK华语视界",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8"
+					}
+				]
+        },
+		 {
+                "kanavannimi": "NTV News24",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8"
+					}
+				]
+        }
+  ]
+}
