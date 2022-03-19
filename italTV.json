@@ -1,0 +1,985 @@
+{
+    "italitv": [
+	    {
+                "canalName": "12 TV Parma (540p)",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Alma TV",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"http://151.0.207.99:1935/AlmaTv/AlmaTv/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Alto Adige TV",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Aurora Arte",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Bom Channel",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://5f22d76e220e1.streamlock.net/BOMCHANNEL/BOMCHANNEL/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "CafeTV24",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://srvx1.selftv.video/cafe/live/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Camera dei Deputati",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Canale 2 Altamura",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Canale 7",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "CANALE 7 (480p)",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"http://wms.shared.streamshow.it/canale7/mp4:canale7/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Canale 8",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"http://wms.shared.streamshow.it/canale8/canale8/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "CANALE 8 (480p)",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"http://wms.shared.streamshow.it/canale8/mp4:canale8/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Canale 10",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"http://37.187.142.147:1935/ch10live/high.stream/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Canale 10 Ostia",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"http://canale10.cloud:1935/ch10live/high.stream/master.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Canale 21 Lazio",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://stream.mariatvcdn.com/canaleventuno/f5d2060b3682e0dfffd5b2f18e935ad3.sdp/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Carina TV",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Class CNBC",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://streamcdnb10-859c1818ed614cc5b0047439470927b0.msvdn.net/live/S76890577/tDoFkZD3T1Lw/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Company TV",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"http://wma10.fluidstream.net/CompanyTV/mp4:livestream/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Cusano Italia TV",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://stream9.xdevel.com/video0s975363-691/stream/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "DeeJay TV",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Elive TV Brescia",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Entella TV",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://5f22d76e220e1.streamlock.net/EntellaTV/EntellaTV/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Esperia TV",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Euro TV",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Gold 78",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://stream2.xdevel.com/video1s86-22/stream/playlist_dvr.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Gold TV Italia",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"http://151.0.207.99:1935/GoldTV/GOLD_17/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Icaro TV",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Italia 7",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"http://151.0.207.99:1935/italia7/italia7/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Iunior TV",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Juwelo Italia",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://sdn-global-live-streaming-packager-cache.3qsdn.com/7841/7841_264_live.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Kiss Kiss Napoli TV",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Lira TV",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://5d79ae45bc63b.streamlock.net/Liratv/Liratv/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Lucania Channel",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"http://wms.shared.streamshow.it/lucaniatv/mp4:lucaniatv/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "m2o TV",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Onda Novara TV",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://585b674743bbb.streamlock.net/9006/9006/master.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Orler TV",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Parole di Vita",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://5db313b643fd8.streamlock.net/Paroledivita/Paroledivita/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Primocanale",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "RDS Social TV",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "ReggioTV",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://59d7d6f47d7fc.streamlock.net/reggiotv/reggiotv/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Rete 4",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Rete 55",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://stream.internet.one/Rete55_Live/index.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Rete Biella T",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://sb.top-ix.org/retebiella/streaming/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Rete Oro",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Retemia",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://5db313b643fd8.streamlock.net/Retemia/Retemia/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Reteveneta",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "RMK TV Sciacca",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"http://vod1.kronopress.com:1935/tmk_live/5123-CA5C-9EBE-428A/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "RTC Telecalabria",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"http://fl1.mediastreaming.it:1935/calabriachannel/livestream/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "RTP",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "RTTR Trento",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Senato TV",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Sophia TV",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://www.onairport.live/sophiatv-it-live/livestream/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Stereo 5 TV",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://stream1.aswifi.it/stereo5/live/index.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Studio 100 Puglia",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"http://wms.shared.streamshow.it:1935/studio100ta/studio100ta/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Super",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Super J TV",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://54627d4fc5996.streamlock.net/SuperJtv/SuperJtv/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Super J TV Teramo",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"http://uk4.streamingpulse.com:1935/SuperJtv/SuperJtv/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Super TV",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Super TV Oristano",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"http://193.70.81.40:1935/supertvoristano/supertvoristano/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "SuperSix Lombardia",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Tele Abruzzo",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Tele Liguria Sud",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://live.teleliguriasud.it/hls/tls/index.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Tele Pavia",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"http://wms.shared.streamshow.it/telepavia/telepavia/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Tele Pegaso Catania",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://flash2.xdevel.com/telepegasocanale812/telepegasocanale812/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Tele Pordenone",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"http://213.187.12.18/telepn/telepn.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Tele Quattro",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"http://wms.shared.streamshow.it/telequattro/telequattro/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Tele Radio Sciacca",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"http://5cbd3bc28341f.streamlock.net:1935/trs_live/teleradiosciacca-tv/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Tele Sondrio News",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://59d8c0cee6f3d.streamlock.net/tsn/tsn_mobile/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "TeleArena",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"http://5ce9406b73c33.streamlock.net/TeleArena/TeleArena.stream/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Telebelluno",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://live.mariatvcdn.com/telebelluno/a3b80388da9801906adf885282e73bc3.sdp/mono.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Telechiara",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Telefoggia",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"http://wms.shared.streamshow.it/telefoggia/mp4:telefoggia/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Teleliberta",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"http://api.new.livestream.com/accounts/17114188/events/4902226/live.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "TeleMia",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://playerssl.telemia.tv/fileadmin/hls/TelemiaHD/telemia85_mediachunks.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Telemolise",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"http://185.202.128.1:1935/TelemoliseStream/telemoliseTV.stream/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Telenord",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://5db313b643fd8.streamlock.net/Telenord/Telenord/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "TeleNordest",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://59d7d6f47d7fc.streamlock.net/telenord/telenord/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "telePAVIA",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"http://wms.shared.streamshow.it/telepavia/mp4:telepavia/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Telesud Trapani",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"http://5cbd3bc28341f.streamlock.net:1935/telesud/live/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "TeleTerni",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://diretta.teleterni.it/live/stream_src.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Teletricolore",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "TeleVenezia",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://59d8c0cee6f3d.streamlock.net/televenezia/televenezia/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "TeleVideo Agrigento",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://59d7d6f47d7fc.streamlock.net/tva/tva/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "TG Norba 24",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"http://flash5.streaming.xdevel.com/tgnorba_24/smil:tgnorba_24.smil/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "TV7 Azzurra",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"http://217.61.26.46:8080/hls/azzurra.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "TV7 Benevento",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "TV7 News",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"http://217.61.26.46:8080/hls/news.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "TV 2000",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"http://cld04wz.tv2000.it/tv2000_main.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "TV Qui",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "TV Sei",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"http://185.202.128.1:1935/Tv6Stream/tv6TV.stream/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "TVL",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://live.mariatvcdn.com/mariatvcdn/70564e1c6884c007c76f0c128d679eed.sdp/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "TVRS",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Umbria TV",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Vera TV",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"http://wms.shared.streamshow.it/veratv/mp4:veratv/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Video Rola",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Canale 5 [Geo-blocked]",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/index.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Italia 1 [Geo-blocked]",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i1)/index.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Italia 2 (480p) [Geo-blocked]",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "La 5 [Geo-blocked]",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8"
+					}
+				]
+        },
+		{
+                "canalName": "Rai Gulp",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953"
+					}
+				]
+        },
+		{
+                "canalName": "Rai YoYo (576p) [Geo-blocked]",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899"
+					}
+				]
+        },
+		{
+                "canalName": "Rai Storia",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990"
+					}
+				]
+        },
+		{
+                "canalName": "Rai Scuola",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011"
+					}
+				]
+        },
+		{
+                "canalName": "Rai Movie",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002"
+					}
+				]
+        },
+		{
+                "canalName": "Rai 1",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803"
+					}
+				]
+        },
+		{
+                "canalName": "Rai 2",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718"
+					}
+				]
+        },
+		{
+                "canalName": "Rai 3",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709"
+					}
+				]
+        },
+		{
+                "canalName": "Rai 4",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=746966"
+					}
+				]
+        },
+		{
+                "canalName": "Rai 5",
+                "contentCanal": [
+					{
+				  	"format":"m3u8",
+				  	"url":"https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276"
+					}
+				]
+        }
+  ]
+}
