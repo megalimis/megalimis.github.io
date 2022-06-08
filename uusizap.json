@@ -1,0 +1,914 @@
+{
+    "sisalto": [
+	    {
+                "kanavannimi": "TBS",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://tbs1.mov3.co/hls/tbs.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "NIPPON TV",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://ntv2.mov3.co/hls/ntv.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "Animax Japan",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://cdn.us195.jpnettv.live:1935/jptv/janimax_720/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "Animax Japan 2",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://cdn.us195.jpnettv.live:1935/jptv/janimax_540/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "BS Nippon TV",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://cdn.us195.jpnettv.live:1935/jptv/bsnihontv_720/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "BS Nippon TV 2",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://cdn.us195.jpnettv.live:1935/jptv/bsnihontv_540/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "BS-TBS",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://cdn.us195.jpnettv.live:1935/jptv/bstbs_720/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "BS-TBS 2",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://cdn.us195.jpnettv.live:1935/jptv/bstbs_540/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "Disney Channel Japan",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://cdn.us195.jpnettv.live:1935/jptv/disney_channel/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "Fuji TV (540p) [Not 24/7]",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://fujitv2.mov3.co/hls/fujitv.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "Gunma TV (720p)",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "Kansai TV",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://cdn.us195.jpnettv.live:1935/jptv/kansi_tv_720/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "Kansai TV 2",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://cdn.us195.jpnettv.live:1935/jptv/kansi_tv_540/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "YTV",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://cdn.us195.jpnettv.live:1935/jptv/kansi_yomiuri_720/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "YTV 2",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://cdn.us195.jpnettv.live:1935/jptv/kansi_yomiuri_540/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "MBS",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://cdn.us195.jpnettv.live:1935/jptv/kansi_mbs_720/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "MBS 2",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://cdn.us195.jpnettv.live:1935/jptv/kansi_mbs_540/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "TV Osaka",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://cdn.us195.jpnettv.live:1935/jptv/kansi_tv_osaka_540/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "TV Osaka 2",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://cdn.us195.jpnettv.live:1935/jptv/kansi_tv_osaka_720/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "SUN TV",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://cdn.us195.jpnettv.live:1935/jptv/kansi_sun_tv_540/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "SUN TV 2",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://cdn.us195.jpnettv.live:1935/jptv/kansi_sun_tv_720/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "Kids Station",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://cdn.us195.jpnettv.live:1935/jptv/jkids_540/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "Movie +",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://cdn.us195.jpnettv.live:1935/jptv/movieplus_540/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "MTV Japan",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://cdn.us195.jpnettv.live:1935/jptv/mtv/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "National Geographic Japan",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://cdn.us195.jpnettv.live:1935/jptv/National_geographic/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "New Japan Pro Wrestling World",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "NHK BS1",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://cdn.us195.jpnettv.live:1935/jptv/nhkbs1_720/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "NHK BS1",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://cdn.us195.jpnettv.live:1935/jptv/nhkbs1_540/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "NHK Chinese Vision",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "NHK Chinese Vision",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "NHK G Osaka",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://cdn.us195.jpnettv.live:1935/jptv/kansi_nhk_g_540/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "NHK General TV",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://nhk2.mov3.co/hls/nhk.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "NHK World Japan",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "NHK World Japan",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "NTV News24",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "NTV News24",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://n24-cdn-live.ntv.co.jp/ch02/index.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "Tokyo MX1",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://cdn.us195.jpnettv.live:1935/jptv/kanto_tokyo_mx1_720/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "Tokyo MX1",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://movie.mcas.jp/mcas/mx1_2/master.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "Tokyo MX1",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://movie.mcas.jp/mcas/mx_live_2/master.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "Tokyo MX1",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://cdn.us195.jpnettv.live:1935/jptv/kanto_tokyo_mx1_540/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "Tokyo MX1",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "Tokyo MX2 (720p)",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://movie.mcas.jp/mcas/mx2_2/master.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "Tokyo MX2 (360p)",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "Weather News (720p)",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "BS TV Asahi",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://cdn.us195.jpnettv.live:1935/jptv/bsasahi_720/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "BS Fuji TV",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://cdn.us195.jpnettv.live:1935/jptv/bsfuji_720/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "BS TV Tokyo",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://cdn.us195.jpnettv.live:1935/jptv/bsjapan_720/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "Nihon Eiga TV",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://cdn.us195.jpnettv.live:1935/jptv/igasennmonn_720/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "ABC",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://cdn.us195.jpnettv.live:1935/jptv/kansi_abc_asahi_720/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "NHK G Kansai",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://cdn.us195.jpnettv.live:1935/jptv/kansi_nhk_g_720/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "NHK General Kanto",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://cdn.us195.jpnettv.live:1935/jptv/kanto_nhk_g_720/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "Star Channel 1",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://cdn.us195.jpnettv.live:1935/jptv/starch1_720/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "Star Channel 2",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://cdn.us195.jpnettv.live:1935/jptv/starch2_720/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "Star Channel 3",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://cdn.us195.jpnettv.live:1935/jptv/starch3_720/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "WOWOWシネマ",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://cdn.us195.jpnettv.live:1935/jptv/wowcinema_720/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "WOWOWライブ",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://cdn.us195.jpnettv.live:1935/jptv/wowlive_720/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "WOWOWプライム",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://cdn.us195.jpnettv.live:1935/jptv/wowprime_720/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "Weather Channel (ウェザーニュース) (BS | WNI) (720p)",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://movie.mcas.jp/mcas/wn1_2/master.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "NHK华语视界 (360p)",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "BS TV Asahi",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://cdn.us195.jpnettv.live:1935/jptv/bsasahi_540/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "BS Fuji TV",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://cdn.us195.jpnettv.live:1935/jptv/bsfuji_540/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "BS TV Tokyo",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://cdn.us195.jpnettv.live:1935/jptv/bsjapan_540/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "WOWOW Plus",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://cdn.us195.jpnettv.live:1935/jptv/cinefil_wowow_540/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "Disney Junior Japan",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://cdn.us195.jpnettv.live:1935/jptv/disney_junior/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "Fishing Channel",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://cdn.us195.jpnettv.live:1935/jptv/Fishing_broadcasting/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "Family Gekijo",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://cdn.us195.jpnettv.live:1935/jptv/gekijjyou/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "Nihon Eiga TV",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://cdn.us195.jpnettv.live:1935/jptv/igasennmonn_540/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "FOX Japan",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://cdn.us195.jpnettv.live:1935/jptv/jfox/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "ABC",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://cdn.us195.jpnettv.live:1935/jptv/kansi_abc_asahi_540/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "NHK General Kanto",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://cdn.us195.jpnettv.live:1935/jptv/kanto_nhk_g_540/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "NECO",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://cdn.us195.jpnettv.live:1935/jptv/Neco/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "Star Channel 1",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://cdn.us195.jpnettv.live:1935/jptv/starch1_540/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "Star Channel 2",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://cdn.us195.jpnettv.live:1935/jptv/starch2_540/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "Star Channel 3",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://cdn.us195.jpnettv.live:1935/jptv/starch3_540/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "TV TOKYO",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"
+					}
+				]
+        },
+		{
+                "kanavannimi": "TV ASAHI",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"
+					}
+				]
+        },
+		{
+                "kanavannimi": "FUJI TV",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"
+					}
+				]
+        },
+		{
+                "kanavannimi": "ANIMAX",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"
+					}
+				]
+        },
+		{
+                "kanavannimi": "ATX",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://sub2.neetball.net/live/neet.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "NHK G",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://nhk2.mov3.co/hls/nhk.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "NHK ENGLISH",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "NHK BS1",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://125.227.210.37:8939/VideoInput/play.ts"
+					}
+				]
+        },
+		{
+                "kanavannimi": "NHK 华语视界",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "KIDS STATION",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"
+					}
+				]
+        },
+		{
+                "kanavannimi": "STAR CHANNEL 1",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"
+					}
+				]
+        },
+		{
+                "kanavannimi": "STAR CHANNEL 2",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"
+					}
+				]
+        },
+		{
+                "kanavannimi": "Nihon Eiga TV",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"
+					}
+				]
+        },
+		{
+                "kanavannimi": "Lala tv",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"
+					}
+				]
+        },
+		{
+                "kanavannimi": "ファミリー劇場",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://stream01.willfonk.com/live_playlist.m3u8?cid=CS293&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"
+					}
+				]
+        },
+		{
+                "kanavannimi": "J SPORT 1",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"
+					}
+				]
+        },
+		{
+                "kanavannimi": "J SPORT 2",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"
+					}
+				]
+        },
+		{
+                "kanavannimi": "J SPORT 3",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"
+					}
+				]
+        },
+		{
+                "kanavannimi": "GAORA SPORT",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"
+					}
+				]
+        },
+		{
+                "kanavannimi": "釣リビジョン🐟",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"
+					}
+				]
+        },
+		{
+                "kanavannimi": "NIPPON TV NEWS 24",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://www.news24.jp/livestream/index.m3u8?type=jp"
+					}
+				]
+        },
+		{
+                "kanavannimi": "WeatherNews",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8"
+					}
+				]
+        },
+		{
+                "kanavannimi": "Wowow Cinefil",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"http://51.79.193.108:8080/hls/j00028/index.m3u8?type=jp"
+					}
+				]
+        },
+		{
+                "kanavannimi": "MOVIE PLUS",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"
+					}
+				]
+        },
+		{
+                "kanavannimi": "東映チャンネル",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"
+					}
+				]
+        },
+		{
+                "kanavannimi": "Neco",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"
+					}
+				]
+        },
+		{
+                "kanavannimi": "エムオン!",
+                "sisalto2": [
+					{
+				  	"Muoto_JAP":"m3u8",
+				  	"Url_JAP":"https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"
+					}
+				]
+        }
+		
+  ]
+}
